@@ -4,3 +4,4 @@ wo xiu gai l yui c
 wo xoi goi l liang ci 
 Git has a mutable index called stage.
 GIt tracks changes.
+Git changes files.
